@@ -26,9 +26,7 @@ This project shows how a Flask app can be **attacked with a DoS flood** and then
 ## 🖼️ Demo Screenshots
 
 Add these screenshots in a `screenshots/` folder:
-- Homepage form  
-- Positive sentiment result  
-- Negative sentiment result  
+- Homepage form
 - 429 Too Many Requests (rate limiter triggered)  
 - Terminal showing Slowloris attack with app still alive  
 
